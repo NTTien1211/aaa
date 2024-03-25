@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.WidgetsFragment">
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+       <com.google.android.material.tabs.TabLayout
+           android:id="@+id/tab_layoutWiaget"
+           android:layout_width="match_parent"
+           android:layout_height="35dp"
+           android:layout_marginStart="5dp"
+           android:layout_marginTop="5dp"
+           android:layout_marginEnd="5dp"
+           android:layout_marginBottom="5dp"
+           app:tabBackground="@drawable/selected_tab_background"
+           app:tabIndicatorColor="@android:color/transparent"
+           app:tabIndicatorHeight="0dp"
+           app:tabMode="scrollable"
+           app:tabTextColor="@color/tab_text_color" />
+       <androidx.viewpager.widget.ViewPager
+           android:layout_width="match_parent"
+           android:layout_below="@+id/tab_layoutWiaget"
+           android:layout_height="match_parent"
+           android:id="@+id/widgetPager_theme">
+           <androidx.recyclerview.widget.RecyclerView
+               android:id="@+id/widget_recyclerview"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"/>
+       </androidx.viewpager.widget.ViewPager>
+   </RelativeLayout>
+</FrameLayout>

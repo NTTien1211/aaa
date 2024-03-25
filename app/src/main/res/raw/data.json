@@ -1,0 +1,988 @@
+{
+  "Themes": [
+    {
+      "id": 1,
+      "name": "Themes11",
+      "details": {
+        "download": 120,
+        "type": "Holiday",
+        "author": "Themes"
+      },
+      "images": {
+        "img": "https://storage.lutech.vn/app/themeapp/themes/theme11.png",
+        "imgwallpaper": "https://storage.lutech.vn/app/themeapp/themes/bgtheme11.png"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Themes12",
+      "details": {
+        "download": 120,
+        "type": "Anime",
+        "author": "Themes"
+      },
+      "images": {
+        "img": "https://storage.lutech.vn/app/themeapp/themes/theme12.png",
+        "imgwallpaper": "https://storage.lutech.vn/app/themeapp/themes/bgtheme12.png"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Themes13",
+      "details": {
+        "download": 120,
+        "type": "Anime",
+        "author": "Themes"
+      },
+      "images": {
+        "img": "https://storage.lutech.vn/app/themeapp/themes/theme13.png",
+        "imgwallpaper": "https://storage.lutech.vn/app/themeapp/themes/bgtheme13.png"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Themes14",
+      "details": {
+        "download": 120,
+        "type": "Holiday",
+        "author": "Themes"
+      },
+      "images": {
+        "img": "https://storage.lutech.vn/app/themeapp/themes/theme14.png",
+        "imgwallpaper": "https://storage.lutech.vn/app/themeapp/themes/bgtheme14.png"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Themes15",
+      "details": {
+        "download": 120,
+        "type": "Anime",
+        "author": "Themes"
+      },
+      "images": {
+        "img": "https://storage.lutech.vn/app/themeapp/themes/theme15.png",
+        "imgwallpaper": "https://storage.lutech.vn/app/themeapp/themes/bgtheme15.png"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Themes16",
+      "details": {
+        "type": "Kpop",
+        "author": "Themes",
+        "download": 120
+      },
+      "images": {
+        "img": "https://storage.lutech.vn/app/themeapp/themes/theme19.png",
+        "imgwallpaper": "https://storage.lutech.vn/app/themeapp/themes/bgtheme19.png"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Themes17",
+      "details": {
+        "download": 120,
+        "type": "Cute",
+        "author": "Themes"
+      },
+      "images": {
+        "img": "https://storage.lutech.vn/app/themeapp/themes/theme23.png",
+        "imgwallpaper": "https://storage.lutech.vn/app/themeapp/themes/bgtheme23.png"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Themes18",
+      "details": {
+        "download": 120,
+        "type": "Sanrio",
+        "author": "Themes"
+      },
+      "images": {
+        "img": "https://storage.lutech.vn/app/themeapp/themes/theme25.png",
+        "imgwallpaper": "https://storage.lutech.vn/app/themeapp/themes/bgtheme25.png"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Themes19",
+      "details": {
+        "download": 120,
+        "type": "Anime",
+        "author": "Themes"
+      },
+      "images": {
+        "img": "https://storage.lutech.vn/app/themeapp/themes/theme27.png",
+        "imgwallpaper": "https://storage.lutech.vn/app/themeapp/themes/bgtheme27.png"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Themes20",
+      "details": {
+        "download": 120,
+        "type": "Anime",
+        "author": "Themes"
+      },
+      "images": {
+        "img": "https://storage.lutech.vn/app/themeapp/themes/theme29.png",
+        "imgwallpaper": "https://storage.lutech.vn/app/themeapp/themes/bgtheme29.png"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Themes21",
+      "details": {
+        "download": 120,
+        "type": "Sanrio",
+        "author": "Themes"
+      },
+      "images": {
+        "img": "https://storage.lutech.vn/app/themeapp/themes/theme31.png",
+        "imgwallpaper": "https://storage.lutech.vn/app/themeapp/themes/bgtheme31.png"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Themes22",
+      "details": {
+        "download": 123544,
+        "type": "Anime",
+        "author": "Themes"
+      },
+      "images": {
+        "img": "https://storage.lutech.vn/app/themeapp/themes/theme35.png",
+        "imgwallpaper": "https://storage.lutech.vn/app/themeapp/themes/bgtheme35.png"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Themes23",
+      "details": {
+        "download": 120,
+        "type": "Anime",
+        "author": "Themes"
+      },
+      "images": {
+        "img": "https://storage.lutech.vn/app/themeapp/themes/theme37.png",
+        "imgwallpaper": "https://storage.lutech.vn/app/themeapp/themes/bgtheme37.png"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Themes24",
+      "details": {
+        "download": 120,
+        "type": "Anime",
+        "author": "Themes"
+      },
+      "images": {
+        "img": "https://storage.lutech.vn/app/themeapp/themes/theme41.png",
+        "imgwallpaper": "https://storage.lutech.vn/app/themeapp/themes/bgtheme41.png"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Themes25",
+      "details": {
+        "download": 120,
+        "type": "Aethetic",
+        "author": "Themes"
+      },
+      "images": {
+        "img": "https://storage.lutech.vn/app/themeapp/themes/theme50.png",
+        "imgwallpaper": "https://storage.lutech.vn/app/themeapp/themes/bgtheme50.png"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Themes26",
+      "details": {
+        "download": 120,
+        "type": "Holiday",
+        "author": "Themes"
+      },
+      "images": {
+        "img": "https://storage.lutech.vn/app/themeapp/themes/theme50.png",
+        "imgwallpaper": "https://storage.lutech.vn/app/themeapp/themes/bgtheme50.png"
+      }
+    }
+  ],
+  "Icons": [
+    {
+      "id": 1,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_1.png"
+      },
+      "idtheme": 1,
+      "type" : 1,
+      "status": 0
+    },
+    {
+      "id": 2,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_2.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 3,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_3.png"
+      },
+      "idtheme": 1,
+      "type" : 1,
+      "status": 0
+    },
+    {
+      "id": 4,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_4.png"
+      },
+      "idtheme": 1,
+      "type" : 1,
+      "status": 0
+    },
+    {
+      "id": 5,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_5.png"
+      },
+      "idtheme": 1,
+      "type" : 1,
+      "status": 0
+    },
+    {
+      "id": 6,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_6.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 7,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_7.png"
+      },
+      "idtheme": 1,
+      "type" : 1,
+      "status": 0
+    },
+    {
+      "id": 8,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_8.png"
+      },
+      "idtheme": 1,
+      "type" : 1,
+      "status": 0
+    },
+    {
+      "id": 9,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_9.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 10,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_10.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 11,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_11.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 12,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_12.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 13,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_13.png"
+      },
+      "idtheme": 1,
+      "type" : 1,
+      "status": 0
+    },
+    {
+      "id": 14,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_14.png"
+      },
+      "idtheme": 1,
+      "type" : 1,
+      "status": 0
+    },
+    {
+      "id": 15,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_15.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 16,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_16.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 17,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_17.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 18,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_18.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 19,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_19.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 20,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_20.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 21,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_21.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 22,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_22.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 23,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_23.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 24,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_24.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 25,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_25.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 26,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_26.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 27,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_27.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 28,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_28.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 29,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_29.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 30,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_30.png"
+      },
+      "idtheme": 1,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 31,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_31.png"
+      },
+      "idtheme": 2,
+      "type" : 1,
+      "status": 0
+    },
+    {
+      "id": 32,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_32.png"
+      },
+      "idtheme": 2,
+      "type" : 1,
+      "status": 0
+    },
+    {
+      "id": 33,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_32.png"
+      },
+      "idtheme": 3,
+      "type" : 0,
+      "status": 0
+    },
+    {
+      "id": 34,
+      "image": {
+        "url": "https://storage.lutech.vn/app/themeapp/icon/Icon_theme11/icon_11_32.png"
+      },
+      "idtheme": 4,
+      "type" : 0,
+      "status": 0
+    }
+  ],
+  "Widgets": [
+    {
+      "id": 1,
+      "type": "Photo",
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/widget/photo_13.png",
+        "big": "https://storage.lutech.vn/app/themeapp/widget/photo_13_1.png"
+      },
+      "theme_id": 0
+    },
+    {
+      "id": 2,
+      "type": "Weather",
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/widget/weather_11.png",
+        "big": "https://storage.lutech.vn/app/themeapp/widget/weather_11_1.png"
+      },
+      "theme_id": 0
+    },
+    {
+      "id": 3,
+      "type": "Digital Clock",
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/widget/digitalclock_11.png",
+        "big": "https://storage.lutech.vn/app/themeapp/widget/digitalclock_11_1.png"
+      },
+      "theme_id": 0
+    },
+    {
+      "id": 4,
+      "type": "Daily Player",
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/widget/dailyquote_86_1.png",
+        "big": "https://storage.lutech.vn/app/themeapp/widget/dailyquote_90_1.png"
+      },
+      "theme_id": 0
+    },
+    {
+      "id": 5,
+      "type": "Clock",
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/widget/clock_24.png",
+        "big": "https://storage.lutech.vn/app/themeapp/widget/clock_24_1.png"
+      },
+      "theme_id": 0
+    },
+    {
+      "id": 6,
+      "type": "Calendar",
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/widget/calendar_16.png",
+        "big": "https://storage.lutech.vn/app/themeapp/widget/calendar_16_1.png"
+      },
+      "theme_id": 0
+    },
+    {
+      "id": 7,
+      "type": "Calendar",
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/widget/calendar_17.png",
+        "big": "https://storage.lutech.vn/app/themeapp/widget/calendar_17_1.png"
+      },
+      "theme_id": 0
+    },
+    {
+      "id": 8,
+      "type": "Digital Clock",
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/widget/digitalclock_12.png",
+        "big": "https://storage.lutech.vn/app/themeapp/widget/digitalclock_12_1.png"
+      },
+      "theme_id": 0
+    },
+    {
+      "id": 9,
+      "type": "Photo",
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/widget/photo_14.png",
+        "big": "https://storage.lutech.vn/app/themeapp/widget/photo_14_1.png"
+      },
+      "theme_id": 0
+    },
+    {
+      "id": 10,
+      "type": "Daily Quote",
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/widget/dailyquote_87.png",
+        "big": "https://storage.lutech.vn/app/themeapp/widget/dailyquote_87_1.png"
+      },
+      "theme_id": 0
+    },
+    {
+      "id": 11,
+      "type": "Digital Clock",
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/widget/digitalclock_12.png",
+        "big": "https://storage.lutech.vn/app/themeapp/widget/digitalclock_12_1.png"
+      },
+      "theme_id": 0
+    },
+    {
+      "id": 12,
+      "type": "Clock",
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/widget/clock_25.png",
+        "big": "https://storage.lutech.vn/app/themeapp/widget/clock_25_1.png"
+      },
+      "theme_id": 0
+    },
+    {
+      "id": 13,
+      "type": "Digital Clock",
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/widget/widget_11_1.png",
+        "big": "https://storage.lutech.vn/app/themeapp/widget/widget_11_1_1.png"
+      },
+      "theme_id": 1
+    },
+    {
+      "id": 14,
+      "type": "Daily Quote",
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/widget/widget_11_2.png",
+        "big": "https://storage.lutech.vn/app/themeapp/widget/widget_11_2_1.png"
+      },
+      "theme_id": 1
+    },
+    {
+      "id": 15,
+      "type": "Calendar",
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/widget/widget_11_3.png",
+        "big": "https://storage.lutech.vn/app/themeapp/widget/widget_11_3_1.png"
+      },
+      "theme_id": 1
+    },
+    {
+      "id": 16,
+      "type": "Gif",
+      "images": {
+        "small": "https://cdn.tgdd.vn/Files/2018/03/31/1078566/2aa25123-82fd-44e8-894a-a58fff098dc1_800x600.gif",
+        "big": "https://cdn.tgdd.vn/Files/2018/03/31/1078566/2aa25123-82fd-44e8-894a-a58fff098dc1_800x600.gif"
+      },
+      "theme_id": 0
+    },
+    {
+      "id": 17,
+      "type": "Gif",
+      "images": {
+        "small": "https://24hstore.vn/upload_images/images/2019/11/14/anh-gif-3-min.gif",
+        "big": "https://24hstore.vn/upload_images/images/2019/11/14/anh-gif-3-min.gif"
+      },
+      "theme_id": 0
+    },
+    {
+      "id": 18,
+      "type": "Gif",
+      "images": {
+        "small": "https://i.pinimg.com/originals/41/c3/41/41c3411c379878f87a1fbe9c557c4ef8.gif",
+        "big": "https://i.pinimg.com/originals/41/c3/41/41c3411c379878f87a1fbe9c557c4ef8.gif"
+      },
+      "theme_id": 0
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "details": {
+        "kind": "Dynamic",
+        "type": "Nature"
+      },
+      "image": {
+        "url": "https://i.pinimg.com/originals/14/d2/09/14d20919b5d877d3942428df52c72ea3.gif"
+      }
+    },
+    {
+      "id": 2,
+      "details": {
+        "kind": "Dynamic",
+        "type": "Abstract"
+      },
+      "image": {
+        "url": "https://i.pinimg.com/originals/63/7a/4d/637a4d42e1738853b2f96ffbbd60622a.gif"
+      }
+    },
+    {
+      "id": 3,
+      "details": {
+        "kind": "Dynamic",
+        "type": "Space"
+      },
+      "image": {
+        "url": "https://i.pinimg.com/originals/56/eb/e9/56ebe97364307364f0add338a4951bcc.gif"
+      }
+    },
+    {
+      "id": 4,
+      "details": {
+        "kind": "Dynamic",
+        "type": "Anime"
+      },
+      "image": {
+        "url": "https://i.pinimg.com/originals/64/36/ab/6436abad0a21c5357a2397050700c4a8.gif"
+      }
+    },
+    {
+      "id": 5,
+      "details": {
+        "kind": "Dynamic",
+        "type": "Space"
+      },
+      "image": {
+        "url": "https://i.pinimg.com/originals/7d/b6/a5/7db6a534485b92e268643a18bd2326b9.gif"
+      }
+    },
+    {
+      "id": 6,
+      "details": {
+        "kind": "Dynamic",
+        "type": "Anime"
+      },
+      "image": {
+        "url": "https://i.pinimg.com/originals/9a/09/85/9a0985904bf1cca3be1a90010fa81ff1.gif"
+      }
+    },
+    {
+      "id": 7,
+      "details": {
+        "kind": "Dynamic",
+        "type": "Nature"
+      },
+      "image": {
+        "url": "https://i.pinimg.com/originals/62/8c/e6/628ce6c8db9801f917a1646823f80520.gif"
+      }
+    },
+    {
+      "id": 8,
+      "details": {
+        "kind": "Dynamic",
+        "type": "Warm"
+      },
+      "image": {
+        "url": "https://gifdb.com/images/high/cozy-rain-wallpaper-27mdb0hwrkdpy2qs.gif"
+      }
+    },
+    {
+      "id": 9,
+      "details": {
+        "kind": "Dynamic",
+        "type": "Warm"
+      },
+      "image": {
+        "url": "https://64.media.tumblr.com/ee7ef19f81bacac390475ca4061fbe73/f2e549e746519a4a-c0/s500x750/f21ac88dd25b95b47a961316cf6ce470047b4e57.gifv"
+      }
+    },
+    {
+      "id": 10,
+      "details": {
+        "kind": "Static",
+        "type": "Cartoon"
+      },
+      "image": {
+        "url": "https://w0.peakpx.com/wallpaper/683/255/HD-wallpaper-doraemon-bts-super-unicorns-new-cartoon-puppy-theme-time-cute.jpg"
+      }
+    },
+    {
+      "id": 11,
+      "details": {
+        "kind": "Static",
+        "type": "Cartoon"
+      },
+      "image": {
+        "url": "https://w0.peakpx.com/wallpaper/687/855/HD-wallpaper-doraemon-ke-scorpio-costume-doraemon-cartoon.jpg"
+      }
+    },
+    {
+      "id": 12,
+      "details": {
+        "kind": "Static",
+        "type": "Animal"
+      },
+      "image": {
+        "url": "https://w0.peakpx.com/wallpaper/12/856/HD-wallpaper-cute-baby-animals-labrador-retriever-dog-running-animal-cute-running-puppy-thumbnail.jpg"
+      }
+    },
+    {
+      "id": 13,
+      "details": {
+        "kind": "Static",
+        "type": "Animal"
+      },
+      "image": {
+        "url": "https://i.pinimg.com/736x/64/5c/34/645c3468d3b3ebe53f41112a3ee23d85.jpg"
+      }
+    },
+    {
+      "id": 14,
+      "details": {
+        "kind": "Static",
+        "type": "Quote"
+      },
+      "image": {
+        "url": "https://cdn.geckoandfly.com/wp-content/uploads/2018/04/iphone-smartphone-wallpaper-065-600x1067.jpg"
+      }
+    },
+    {
+      "id": 15,
+      "details": {
+        "kind": "Static",
+        "type": "Quote"
+      },
+      "image": {
+        "url": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwODEtMjA2LWt2dnNqcnQ5LmpwZw.jpg"
+      }
+    },
+    {
+      "id": 16,
+      "details": {
+        "kind": "Static",
+        "type": "Scenecy"
+      },
+      "image": {
+        "url": "https://i.pinimg.com/564x/29/bf/d3/29bfd3320131a1e0681dd44576bd9f50.jpg"
+      }
+    },
+    {
+      "id": 17,
+      "details": {
+        "kind": "Static",
+        "type": "Scenecy"
+      },
+      "image": {
+        "url": "https://i.pinimg.com/736x/ff/aa/93/ffaa936a65c08b9970bb87b31af283d2.jpg"
+      }
+    },
+    {
+      "id": 18,
+      "details": {
+        "kind": "Static",
+        "type": "Plant"
+      },
+      "image": {
+        "url": "https://w0.peakpx.com/wallpaper/167/800/HD-wallpaper-huawei-p10-android-green-leaves-lockscreen-macro-nature-stock.jpg"
+      }
+    },
+    {
+      "id": 19,
+      "details": {
+        "kind": "Static",
+        "type": "Plant"
+      },
+      "image": {
+        "url": "https://i.pinimg.com/736x/c3/0c/f8/c30cf865c290ad15dc71b39637cc6300.jpg"
+      }
+    },
+    {
+      "id": 20,
+      "details": {
+        "kind": "Static",
+        "type": "City"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1502899576159-f224dc2349fa?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTd8fHxlbnwwfHx8fHw%3D"
+      }
+    },
+    {
+      "id": 21,
+      "details": {
+        "kind": "Static",
+        "type": "City"
+      },
+      "image": {
+        "url": "https://i.pinimg.com/originals/cf/87/38/cf8738ff882fe78862c47efce799c89c.jpg"
+      }
+    },
+    {
+      "id": 22,
+      "details": {
+        "kind": "Static",
+        "type": "City"
+      },
+      "image": {
+        "url": "https://wallpaperbat.com/img/315908-s-on-photo-life-city-aesthetic-city-wallpaper-unique.jpg"
+      }
+    },
+    {
+      "id": 23,
+      "details": {
+        "kind": "Static",
+        "type": "Abstract"
+      },
+      "image": {
+        "url": "https://i.pinimg.com/originals/08/2f/08/082f08fda826f3dfdf322f5785f776a4.gif"
+      }
+    }
+  ],
+  "Frame": [
+    {
+      "id": 1,
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/frame/frame_1.png",
+        "big": "https://storage.lutech.vn/app/themeapp/frame/frame_1_1.png"
+      }
+    },
+    {
+      "id": 2,
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/frame/frame_2.png",
+        "big": "https://storage.lutech.vn/app/themeapp/frame/Frame_2_1.png"
+      }
+    },
+    {
+      "id": 3,
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/frame/frame_3.png",
+        "big": "https://storage.lutech.vn/app/themeapp/frame/frame_3_1.png"
+      }
+    },
+    {
+      "id": 4,
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/frame/frame_4.png",
+        "big": "https://storage.lutech.vn/app/themeapp/frame/frame_4_1.png"
+      }
+    },
+    {
+      "id": 5,
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/frame/frame_5.png",
+        "big": "https://storage.lutech.vn/app/themeapp/frame/frame_5_1.png"
+      }
+    },
+    {
+      "id": 6,
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/frame/frame_6.png",
+        "big": "https://storage.lutech.vn/app/themeapp/frame/frame_6_1.png"
+      }
+    },
+    {
+      "id": 7,
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/frame/frame_7.png",
+        "big": "https://storage.lutech.vn/app/themeapp/frame/frame_7_1.png"
+      }
+    },
+    {
+      "id": 8,
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/frame/frame_8.png",
+        "big": "https://storage.lutech.vn/app/themeapp/frame/frame_8_1.png"
+      }
+    },
+    {
+      "id": 9,
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/frame/frame_9.png",
+        "big": "https://storage.lutech.vn/app/themeapp/frame/frame_9_1.png"
+      }
+    },
+    {
+      "id": 10,
+      "images": {
+        "small": "https://storage.lutech.vn/app/themeapp/frame/frame_10.png",
+        "big": "https://storage.lutech.vn/app/themeapp/frame/frame_10_1.png"
+      }
+    }
+  ]
+}

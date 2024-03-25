@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item  android:title="@string/txt_theme"
+        android:id="@+id/item_theme"
+        android:icon="@drawable/iconsshirt30"/>
+    <item  android:title="@string/txt_icons"
+        android:id="@+id/item_icons"
+        android:icon="@drawable/iconsgrid30"/>
+    <item  android:title="@string/txt_widget"
+        android:id="@+id/item_widget"
+        android:icon="@drawable/iconstopbarwithleftcolumnsidegird30"/>
+    <item  android:title="@string/txt_wallpaper"
+        android:id="@+id/item_wallpaper"
+        android:icon="@drawable/iconsimage30"/>
+</menu>

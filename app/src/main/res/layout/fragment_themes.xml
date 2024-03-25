@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.ThemesFragment">
+
+    <RelativeLayout
+        android:id="@+id/tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tab_layoutTheme"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="5dp"
+            app:tabBackground="@drawable/selected_tab_background"
+            app:tabIndicatorColor="@android:color/transparent"
+            app:tabIndicatorHeight="0dp"
+            app:tabMode="scrollable"
+            android:layout_toStartOf="@+id/btn_tablayoutDown"
+            app:tabTextColor="@color/tab_text_color" />
+        <ImageButton
+            android:id="@+id/btn_tablayoutDown"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="30dp"
+            android:scaleType="fitCenter"
+            android:layout_height="40dp"
+            android:src="@drawable/iconsdraglistdown52"
+            android:background="@android:color/transparent"/>
+    </RelativeLayout>
+    <androidx.viewpager.widget.ViewPager
+        android:layout_width="match_parent"
+        android:layout_below="@+id/tab"
+        android:layout_height="match_parent"
+        android:id="@+id/tbalayout_theme">
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/theme_recyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </androidx.viewpager.widget.ViewPager>
+</RelativeLayout>

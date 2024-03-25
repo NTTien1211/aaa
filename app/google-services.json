@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66472933975",
+    "project_id": "themeapp-6ebe1",
+    "storage_bucket": "themeapp-6ebe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66472933975:android:3ef6e85b10cf2fcd4b0112",
+        "android_client_info": {
+          "package_name": "com.lutech.themelt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJlZny6NDZONXVDwLQQKNm5W-akyKWbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

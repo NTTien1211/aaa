@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.IconsFragment">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:id="@+id/layout_customicon"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:paddingLeft="25dp"
+            android:background="@drawable/background_gradian"
+            android:paddingRight="25dp"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/iconslove48"/>
+            <TextView
+                android:layout_gravity="center_vertical"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:layout_height="wrap_content"
+                android:text="@string/txt_customicon"/>
+
+            <Button
+                android:layout_gravity="center"
+                android:layout_width="50dp"
+                android:layout_height="30dp"
+                android:textColor="@color/custombtn"
+                android:text="@string/txt_GO"
+                android:background="@drawable/background_bottom_nav"/>
+        </LinearLayout>
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_below="@+id/layout_customicon"
+            android:id="@+id/icons_recyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </RelativeLayout>
+
+</FrameLayout>

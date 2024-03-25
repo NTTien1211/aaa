@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Tab được chọn -->
+    <item android:drawable="@drawable/rounded_selected_tab_bg" android:state_selected="true" />
+    <!-- Mặc định -->
+    <item android:drawable="@android:color/transparent" />
+</selector>

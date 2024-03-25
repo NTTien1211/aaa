@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="Widget.ThemeLt.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:background">?android:attr/colorBackground</item>
+    </style>
+
+    <style name="Widget.ThemeLt.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:background">?android:attr/colorBackground</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="RoundedSquare">
+        <item name="cornerSize">12%</item>
+    </style>
+    <style name="RoundedSquarep2">
+        <item name="cornerSize">18%</item>
+    </style>
+    <style name="over">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

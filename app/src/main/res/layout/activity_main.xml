@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/colorOnSecondary"
+    tools:context=".activity.MainActivity">
+
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical">
+       <RelativeLayout
+           android:id="@+id/toolbar"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           tools:layout_editor_absoluteX="0dp"
+           tools:layout_editor_absoluteY="292dp">
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="10dp"
+               android:orientation="horizontal">
+
+               <ImageButton
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="15dp"
+                   android:background="@android:color/transparent"
+                   android:src="@drawable/iconssetting30" />
+
+               <com.airbnb.lottie.LottieAnimationView
+                   android:layout_marginLeft="15dp"
+                   app:lottie_autoPlay="true"
+                   android:padding="5dp"
+                   app:lottie_loop="true"
+                   android:background="@drawable/rounded_circle"
+                   android:layout_width="40dp"
+                   android:layout_height="40dp"
+                   app:lottie_rawRes="@raw/animation1709863955968" />
+
+
+               <ImageButton
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="15dp"
+                   android:background="@android:color/transparent"
+                   android:src="@drawable/iconshelp20" />
+
+               <RelativeLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:layout_gravity="center"
+                   android:gravity="right"
+                   android:orientation="horizontal">
+
+                   <ImageView
+                       android:id="@+id/money"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:layout_alignParentLeft="true"
+                       android:adjustViewBounds="true"
+                       android:background="@android:color/transparent"
+                       android:scaleType="centerCrop"
+                       android:src="@drawable/iconsdollar48" />
+
+                   <LinearLayout
+                       android:layout_width="wrap_content"
+                       android:layout_height="match_parent"
+                       android:layout_toEndOf="@id/money"
+                       android:gravity="center_vertical">
+
+                       <TextView
+                           android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:background="@color/moneycolor"
+                           android:paddingLeft="10dp"
+                           android:paddingRight="10dp"
+                           android:text="500"
+                           android:textColor="?attr/colorOnPrimary" />
+
+                       <ImageButton
+                           android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:background="@android:color/transparent"
+                           android:src="@drawable/addsquare" />
+                   </LinearLayout>
+
+               </RelativeLayout>
+           </LinearLayout>
+
+       </RelativeLayout>
+       <com.lutech.themelt.adapter.CustomsViewPager
+           android:id="@+id/viewpager"
+           android:layout_width="match_parent"
+           android:layout_below="@id/toolbar"
+           android:layout_above="@+id/bottomnavigationView"
+           android:layout_height="match_parent"/>
+
+       <com.google.android.material.bottomnavigation.BottomNavigationView
+           android:id="@+id/bottomnavigationView"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_alignParentBottom="true"
+           android:layout_marginStart="14dp"
+           android:layout_marginTop="14dp"
+           android:layout_marginEnd="14dp"
+           android:layout_marginBottom="14dp"
+           android:background="@drawable/background_bottom_nav"
+           android:padding="3dp"
+           app:itemIconTint="@color/custom_color"
+           app:itemTextColor="@color/custom_color"
+           app:labelVisibilityMode="labeled"
+           app:menu="@menu/bottomnavigation" />
+
+   </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
